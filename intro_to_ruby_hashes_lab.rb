@@ -1,6 +1,9 @@
 def base_hash
   video_game ={ 
-    :video_game1 => {
+    :video_game1 => { 
+      "player1" =>{
+        
+      }
       
     }
     
