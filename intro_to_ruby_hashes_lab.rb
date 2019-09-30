@@ -1,5 +1,5 @@
 def base_hash
-  video_game => { :player1 , :player2 ,:player3
+  video_game = { :player1 , :player2 ,:player3
   }
   }
   
